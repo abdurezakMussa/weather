@@ -1,4 +1,4 @@
-/ contains list
+// contains list
 var searchHistory = [];
 // returns local storage search history
 function getItems() {
